@@ -21,10 +21,10 @@ Kütüphane Yazılımı:
 -  Kitaplara Özel barkod yazdırılması, bu barkod üzerinde kaynağın ait olduğu referanslama sistemi gösterilsin. Bu barkoda göre kitap raflama yapılacaktır.
 
 
-<img src='http://i.hizliresim.com/Z795ma.jpg' width=40%/>
-<img src='http://i.hizliresim.com/0mErVY.jpg' width=40%/>
-<img src='http://i.hizliresim.com/qPGy2q.jpg' width=40%/>
-<img src='http://i.hizliresim.com/rZOyZz.jpg' width=40%/>
-<img src='http://i.hizliresim.com/YrgVba.jpg' width=40%/>
-<img src='http://i.hizliresim.com/3YEgq2.jpg' width=40%/>
-<img src='http://i.hizliresim.com/pB62Gm.jpg' width=40%/>
+<img src='http://i.hizliresim.com/Z795ma.jpg' width=30%/>
+<img src='http://i.hizliresim.com/0mErVY.jpg' width=30%/>
+<img src='http://i.hizliresim.com/qPGy2q.jpg' width=30%/>
+<img src='http://i.hizliresim.com/rZOyZz.jpg' width=30%/>
+<img src='http://i.hizliresim.com/YrgVba.jpg' width=30%/>
+<img src='http://i.hizliresim.com/3YEgq2.jpg' width=30%/>
+<img src='http://i.hizliresim.com/pB62Gm.jpg' width=30%/>
